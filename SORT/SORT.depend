@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1678625568 source:c:\baitapctdlgt\test\sort\sort.cpp
+	<bits/stdc++.h>
+	"Quicksort.h"
+	"Heapsort.h"
+	"Mergesort.h"
+
+1678625040 c:\baitapctdlgt\test\sort\quicksort.h
+
+1678623507 c:\baitapctdlgt\test\sort\heapsort.h
+
+1678623389 c:\baitapctdlgt\test\sort\mergesort.h
+

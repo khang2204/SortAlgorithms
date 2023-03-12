@@ -1,0 +1,4 @@
+Merge Sort: 0.148s
+Quick Sort: 0.134s
+Heap Sort: 0.258s
+std::sort in C++: 0.137s
